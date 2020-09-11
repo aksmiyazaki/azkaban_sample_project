@@ -1,3 +1,0 @@
-type=command
-command=sh -c 'echo "Second Step!"'
-dependencies=first_step
